@@ -4,6 +4,7 @@ const logos = [
   "Python",
   "Expressjs",
   "React",
+  "ChartJS"
   "MongoDB",
   "SocketIO",
   "TypeScript",
@@ -11,7 +12,7 @@ const logos = [
   "Redux",
   "Sass",
   "Docker",
-  "kubernetes",
+  "Kubernetes",
   "Bootstrap",
   "MaterialUI",
   "D3js",
