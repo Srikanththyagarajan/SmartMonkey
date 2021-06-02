@@ -4,7 +4,7 @@ const logos = [
   "Python",
   "Expressjs",
   "React",
-  "ChartJS"
+  "ChartJS",
   "MongoDB",
   "SocketIO",
   "TypeScript",
