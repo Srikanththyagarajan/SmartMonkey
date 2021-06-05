@@ -5,6 +5,7 @@ const logos = [
   "Expressjs",
   "React",
   "ChartJS",
+  "Rainbow-Components",
   "MongoDB",
   "SocketIO",
   "TypeScript",
@@ -19,7 +20,7 @@ const logos = [
   "git",
   "GitHub",
   "PostgreSQL",
-  "Bash",
+  "Bash"
 ];
 
 function Skills() {
